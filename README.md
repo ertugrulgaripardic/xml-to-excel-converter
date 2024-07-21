@@ -40,7 +40,6 @@ This script reads a local XML file and extracts product image URLs, then writes 
 - requests
 - openpyxl
 
-
 You can install the required packages using pip:
 ```bash
 pip install pandas requests openpyxl
